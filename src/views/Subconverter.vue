@@ -275,6 +275,10 @@ export default {
               {
                 label: "默认（附带用于 Clash 的 AdGuard DNS）",
                 value: "https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/default_with_clash_adg.yml"
+              },
+              {
+                label: "ACL_housirvip定制版",
+                value: "https://raw.githubusercontent.com/housirvip/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_housirvip.ini"
               }
             ]
           },
