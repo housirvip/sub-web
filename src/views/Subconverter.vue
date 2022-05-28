@@ -277,8 +277,12 @@ export default {
                 value: "https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/default_with_clash_adg.yml"
               },
               {
-                label: "ACL_housirvip定制版",
+                label: "ACL_housirvip_github",
                 value: "https://raw.githubusercontent.com/housirvip/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_housirvip.ini"
+              },
+              {
+                label: "ACL_housirvip_gogs",
+                value: "http://192.168.100.114:3000/housirvip/ACL4SSR/raw/e1185ce6eba5359137ec74ec2e451d0f016eb594/Clash/config/ACL4SSR_Online_Full_housirvip.ini"
               }
             ]
           },
